@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "first-post"
+date: 2022-08-22
 ---
 
 ## Hello World!
