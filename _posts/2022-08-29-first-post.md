@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "first-post"
+title: "helloworld"
 date: 2022-08-20
-permalink: /helloworld/
 ---
 
 ## Hello World!
